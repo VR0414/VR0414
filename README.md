@@ -5,20 +5,18 @@
 </p>
 
 ---
-
 Sou estudante de **Ciência da Computação** na [CESAR School](https://www.cesar.school), natural de **Recife - PE**, com 18 anos.  
-Tenho paixão por resolver problemas com código, criar projetos úteis e liderar com propósito e inovação.
+Gosto muito de resolver problemas com código, criar projetos úteis e liderar com propósito e inovação.
 
 Busco aprender constantemente sobre **desenvolvimento web**, **UX/UI**, **back-end com Python** e **projetos colaborativos**.
-
 ---
 
 ## Contato e Redes
 
-- 📧 Email: [vitoroberto02@gmail.com](mailto:vitoroberto02@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vitor-gadelha-908980367](https://www.linkedin.com/in/vitor-gadelha-908980367)  
-- 💻 GitHub: [github.com/VR0414](https://github.com/VR0414)  
-- 📸 Instagram: [@vitorlgadelha](https://instagram.com/vitorlgadelha)
+-  Email: [vitoroberto02@gmail.com](mailto:vitoroberto02@gmail.com)  
+-  LinkedIn: [linkedin.com/in/vitor-gadelha-908980367](https://www.linkedin.com/in/vitor-gadelha-908980367)  
+-  GitHub: [github.com/VR0414](https://github.com/VR0414)  
+-  Instagram: [@vitorlgadelha](https://instagram.com/vitorlgadelha)
 
 ---
 
