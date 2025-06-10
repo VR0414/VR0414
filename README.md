@@ -14,7 +14,7 @@ Busco aprender constantemente sobre **desenvolvimento web**, **UX/UI**, **back-e
 ## Contato e Redes
 
 -  Email: [vitoroberto02@gmail.com](mailto:vitoroberto02@gmail.com)  
--  LinkedIn: [linkedin.com/in/vitor-gadelha-908980367](https://www.linkedin.com/in/vitor-gadelha-908980367)  
+-  LinkedIn: [linkedin.com/in/vitorgadelha](https://www.linkedin.com/in/vitor-gadelha-908980367)  
 -  GitHub: [github.com/VR0414](https://github.com/VR0414)  
 -  Instagram: [@vitorlgadelha](https://instagram.com/vitorlgadelha)
 
