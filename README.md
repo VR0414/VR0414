@@ -46,5 +46,5 @@ Busco aprender constantemente sobre **desenvolvimento web**, **UX/UI**, **back-e
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! Fique à vontade para se conectar comigo.
+  Valeu por visitar meu perfil! Fique à vontade para se conectar comigo, segue lá no instagram também!, TMJ.
 </p>
