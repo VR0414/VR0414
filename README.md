@@ -36,16 +36,6 @@ Busco aprender constantemente sobre **desenvolvimento web**, **UX/UI**, **back-e
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VR0414&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VR0414&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
-</div>
-
 ---
 
 <p align="center">
