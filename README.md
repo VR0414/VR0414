@@ -8,7 +8,6 @@
 Sou estudante de **Ciência da Computação** na [CESAR School](https://www.cesar.school), natural de **Recife - PE**, com 19 anos.  
 Gosto muito de resolver problemas com código, criar projetos úteis e liderar com propósito e inovação.
 
-Busco aprender constantemente sobre **desenvolvimento web**, **UX/UI**, **back-end com Python** e **projetos colaborativos**.
 ---
 
 ## Contato e Redes
